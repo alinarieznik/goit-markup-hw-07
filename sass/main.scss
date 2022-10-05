@@ -3,10 +3,11 @@
    @import './utils/visually-hidden';
 
 //    base styles
-   @import './base/base';
-   @import './base/reset';
+
 
 //    components styles
+   @import './components/reset';
+   @import './components/base';
    @import './components/container';
    @import './components/section';
    @import './components/section-title';
@@ -24,7 +25,7 @@
    @import './components/clients';
    @import './components/footer';
    @import './components/projects';
-   
+
 
 
 
